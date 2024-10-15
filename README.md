@@ -18,7 +18,15 @@ very useful tool
 4. **iBar** menu bar icon control tool https://apps.apple.com/cn/app/ibar-menubar-icon-control-tool/id6443843900?l=en-GB&mt=12
 5. **XBar** put anything in mac menu bar https://xbarapp.com/
 6. **Lemon** mac清理工具  https://lemon.qq.com/
-7. ** Local RMTP Server** Local RMTP Server on MAC https://github.com/sallar/mac-local-rtmp-server
+7. **Local RMTP Server** Local RMTP Server on MAC https://github.com/sallar/mac-local-rtmp-server
+
+## Terminal
+
+1. **Homebrew**
+2. **zsh**
+3. **pnpm**
+4. **magick**
+5. **ffmpeg**
 
 ## AI
 
